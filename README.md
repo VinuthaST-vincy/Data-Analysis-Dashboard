@@ -17,7 +17,7 @@ The Reliance company wants to create an date wise,monthly wise and annual trade 
 - Which month has the highest number of trades
 - Compare Stock analysis between 2023 and 2024 which has least total number of trades
 - Dashboard Interaction <a href=" ">View Dashboard</a>
-- 
+
 
 ### Process
 - Verify data for any missing values and anamolies, and sort out the same.

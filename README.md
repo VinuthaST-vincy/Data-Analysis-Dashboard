@@ -29,6 +29,13 @@ The Reliance company wants to create an date wise,monthly wise and annual trade 
 
 ![1733595268611](https://github.com/user-attachments/assets/9fe4d846-91f6-4a51-aff2-072400df7346)
 
+## Project Insights
+- Average of 52 week High : 3.06k
+- Average of 52 week Low : 2.11k
+- Volume Total : 2bn
+- Open Total : 673.22k
+- Close Total : 672.93k
+
 ## Final Conclusion
 To improve the trades of reliance ,a strategic marketing plan focused on increasing numner of trades by analysing 52 weeks ups and down strikes.Reliance Industries demonstrated resilience and growth in 2023 , drive bt its robust diversification strategy across energy , retail and telecom sectors .The stock's performance reflected strong fundamentals,with sustianable investments .Looking a head to 2024,the company is poised for further expansion ,should monitor macroeconomic factors abd selector-specific risks.
 

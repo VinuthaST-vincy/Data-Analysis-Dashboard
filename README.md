@@ -1,5 +1,5 @@
 # VinuthaST_ArpithSingh
-## Quote-Equity-Reliance-Data-Analysis(Interactive Dashboard creation using MS Excel and Powe BI )
+## Reliance-Data-Analysis(Interactive Dashboard creation using MS Excel and Powe BI )
 We developed a comprehensive project in Excel,Power BI .Creating multiple dashboards and tables to analyze the data .This process involved several stages including data processing ,data cleaning and data visualization.
 
 ### Project Objective
@@ -37,5 +37,5 @@ The Reliance company wants to create an date wise,monthly wise and annual trade 
 - Close Total : 672.93k
 
 ## Final Conclusion
-To improve the trades of reliance ,a strategic marketing plan focused on increasing numner of trades by analysing 52 weeks ups and down strikes.Reliance Industries demonstrated resilience and growth in 2023 , drive bt its robust diversification strategy across energy , retail and telecom sectors .The stock's performance reflected strong fundamentals,with sustianable investments .Looking a head to 2024,the company is poised for further expansion ,should monitor macroeconomic factors abd selector-specific risks.
+To improve the trades of reliance ,a strategic marketing plan focused on increasing numner of trades by analysing 52 weeks ups and down strikes.Reliance Industries demonstrated resilience and growth from past 13 years , drive bt its robust diversification strategy across energy , retail and telecom sectors .The stock's performance reflected strong fundamentals,with sustianable investments .Looking a head to 2024,the company is poised for further expansion ,should monitor macroeconomic factors abd selector-specific risks.
 

@@ -35,5 +35,5 @@ The Reliance company wants to create an date wise,monthly wise and annual trade 
 - Close Total : 5.505M
 
 ## Final Conclusion
-To improve the trades of reliance ,a strategic marketing plan focused on increasing numner of trades by analysing 52 weeks ups and down strikes.Reliance Industries demonstrated resilience and growth from past 13 years , drive bt its robust diversification strategy across energy , retail and telecom sectors .The stock's performance reflected strong fundamentals,with sustianable investments .Looking a head to 2024,the company is poised for further expansion ,should monitor macroeconomic factors abd selector-specific risks.
+To improve the trades of reliance, a strategic marketing plan focused on increasing number of trades by analysing 52 weeks ups and down strikes. Reliance Industries demonstrated resilience and growth from past 13 years, drive but its robust diversification strategy across energy, retail and telecom sectors. The stock's performance reflected strong fundamentals, with sustainable investments. Looking a head to 2025, the company is composed for further expansion, should monitor macroeconomic factors and selector-specific risks.
 

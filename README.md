@@ -9,7 +9,7 @@ The Reliance company wants to create an date wise,monthly wise and annual trade 
 - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Quote-Equity-RELIANCE-EQ-07-12-2023-to-07-12-2024.xlsx">Dataset</a>
 
 ### Questions(KPI's)
-- Analyse Sum of Volume By Month - <a href="file:///C:/Users/Prajwal/Downloads/Reliance%20Dataset%20Analysis%20(1).pdf"> Click here to Review</a>
+- Analyse Sum of Volume By Month - <a href="ftp:///C:/Users/Prajwal/Downloads/Reliance%20Dataset%20Analysis%20(1).pdf"> Click here to Review</a>
 - Which month got the highest Sum of Volume
 - Which month got the least Sum of Volume
 - Compare Quaterly analysis of 52W H and 52W L

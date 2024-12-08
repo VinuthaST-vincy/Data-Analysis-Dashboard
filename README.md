@@ -25,8 +25,7 @@ The Reliance company wants to create an date wise,monthly wise and annual trade 
 - Merge all pivot tables into one dashboard and apply slicer to amke dynamic.
 
 ### Dashboard 
-
-![1733595268611](https://github.com/user-attachments/assets/9fe4d846-91f6-4a51-aff2-072400df7346)
+![Screenshot (50)](https://github.com/user-attachments/assets/2a178a4b-5f50-45cb-860c-81c667e70c3e)
 
 ## Project Insights
 - Average of 52 week High : 3.06k

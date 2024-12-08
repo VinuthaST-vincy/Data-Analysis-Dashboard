@@ -13,7 +13,7 @@ The Reliance company wants to create an date wise,monthly wise and annual trade 
 - Which month got the highest Sum of Volume -<a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Highestsumofvolume.pdf"> Click here to Review</a>
 - Which month got the least Sum of Volume - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Leastsumofvolume.pdf">Click here to Review</a>
 - Compare Quaterly analysis of 52W H and 52W L - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Analysisof52wh%2652wl.pdf">Click here to Review</a>
-- Estimate the Volume Total,Close Total and Open total
+- Estimate the Volume Total,Close Total and Open total - <a href=" https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/VolumeCloseOpentotals.pdf">Click here to Review</a>
 - Which month has the highest number of trades
 - Dashboard Interaction <a href=" ">View Dashboard</a>
 

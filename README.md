@@ -1,9 +1,9 @@
 # VinuthaST_ArpithSingh
-## Reliance-Data-Analysis(Interactive Dashboard creation using MS Excel and Powe BI )
-We developed a comprehensive project in Excel,Power BI .Creating multiple dashboards and tables to analyze the data .This process involved several stages including data processing ,data cleaning and data visualization.
+## Reliance-Data-Analysis (Interactive Dashboard creation using MS Excel and Power BI)
+We developed a comprehensive project in Excel, Power BI. Creating multiple dashboards and tables to analyze the data. This process involved several stages including data processing, data cleaning and data visualization.
 
 ### Project Objective
-The Reliance company wants to create an date wise,monthly wise and annual trade report .So that,the owner can understand their customers and grow more sales in 2024 and 2025.
+The Reliance company wants to create a date wise, monthly wise and annual wise trade report. So that, the owner can understand their customers and grow more sales in 2024 and 2025.
 
 ### Dataset used
 - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Reliance%20Data%20Set.xlsx">Dataset</a>
@@ -12,7 +12,7 @@ The Reliance company wants to create an date wise,monthly wise and annual trade 
 - Analyse Sum of Volume By Month - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Sumofvolume.pdf "> Click here to Review</a>
 - Which month got the highest Sum of Volume -<a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Highestsumofvolume.pdf"> Click here to Review</a>
 - Which month got the least Sum of Volume - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Leastsumofvolume.pdf">Click here to Review</a>
-- Compare Quaterly analysis of 52W H and 52W L - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Analysisof52wh%2652wl.pdf">Click here to Review</a>
+- Analysis of 52W H and 52W L - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Analysisof52wh%2652wl.pdf">Click here to Review</a>
 - Estimate the Volume Total,Close Total and Open total - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/VolumeCloseOpentotals.pdf">Click here to Review</a>
 - Which month has the highest number of trades - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Numberoftrades.pdf">CLick here to Review</a>
 - Dashboard Interaction <a href=" ">View Dashboard</a>
@@ -22,7 +22,7 @@ The Reliance company wants to create an date wise,monthly wise and annual trade 
 - Verify data for any missing values and anamolies, and sort out the same.
 - Make sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
-- Merge all pivot tables into one dashboard and apply slicer to amke dynamic.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ### Dashboard 
 ![Screenshot (50)](https://github.com/user-attachments/assets/2a178a4b-5f50-45cb-860c-81c667e70c3e)

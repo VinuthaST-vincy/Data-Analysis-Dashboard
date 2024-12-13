@@ -9,12 +9,12 @@ The Reliance company wants to create a date wise, monthly wise and annual wise t
 - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Reliance%20Data%20Set.xlsx">Dataset</a>
 
 ### Questions(KPI's)
-- Analyse Sum of Volume By Month - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Sumofvolume.pdf "> Click here to Review</a>
-- Which month got the highest Sum of Volume -<a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Highestsumofvolume.pdf"> Click here to Review</a>
-- Which month got the least Sum of Volume - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Leastsumofvolume.pdf">Click here to Review</a>
-- Analysis of 52W H and 52W L - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Analysisof52wh%2652wl.pdf">Click here to Review</a>
-- Estimate the Volume Total,Close Total and Open total - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/VolumeCloseOpentotals.pdf">Click here to Review</a>
-- Which month has the highest number of trades - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Numberoftrades.pdf">CLick here to Review</a>
+- Analyse Sum of Volume By Month - <a href=" "> Click here to Review</a>
+- Which month got the highest Sum of Volume -<a href=" "> Click here to Review</a>
+- Which month got the least Sum of Volume - <a href=" ">Click here to Review</a>
+- Analysis of 52W H and 52W L - <a href=" ">Click here to Review</a>
+- Estimate the Volume Total,Close Total and Open total - <a href=" ">Click here to Review</a>
+- Which month has the highest number of trades - <a href=" ">CLick here to Review</a>
 - Dashboard Interaction <a href=" ">View Dashboard</a>
 
 

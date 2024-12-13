@@ -6,7 +6,7 @@ We developed a comprehensive project in Excel, Power BI. Creating multiple dashb
 The Reliance company wants to create a date wise, monthly wise and annual wise trade report. So that, the owner can understand their customers and grow more sales in 2024 and 2025.
 
 ### Dataset used
-- <a href="">Dataset</a>
+- <a href="https://1drv.ms/x/c/c6eed952a6c3825c/EWilx7_kiRpMtDxCOoi2y_cB8B-9u_x2P6wijj8u-GJ-Hg?e=BFL6TJ">Dataset</a>
 
 ### Questions(KPI's)
 - Analyse Sum of Volume By Month - <a href=" "> Click here to Review</a>

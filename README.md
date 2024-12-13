@@ -12,9 +12,8 @@ The Reliance company wants to create a date wise, monthly wise and annual wise t
 - Highest and Lowest Closing Prices By Year - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Highest_Lowest%20Closing_Price.pdf "> Click here to Review</a>
 - Average Close Price - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Average_Close.pdf"> Click here to Review</a>
 - Highest Sum of volume By Month - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Highest_Sum_of_Volumebymonth.pdf ">Click here to Review</a>
-- Analysis of 52W H and 52W L - <a href=" ">Click here to Review</a>
-- Estimate the Volume Total,Close Total and Open total - <a href=" ">Click here to Review</a>
-- Which month has the highest number of trades - <a href=" ">CLick here to Review</a>
+- Number of Trades- <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Number%20of%20Trades.pdf ">Click here to Review</a>
+- Highest and Lowest Volume By Month - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Number%20of%20Trades.pdf ">Click here to Review</a>
 - Dashboard Interaction <a href=" ">View Dashboard</a>
 
 

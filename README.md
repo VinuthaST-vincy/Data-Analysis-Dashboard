@@ -14,7 +14,7 @@ The Reliance company wants to create a date wise, monthly wise and annual wise t
 - Highest Sum of volume By Month - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Highest_Sum_of_Volumebymonth.pdf ">Click here to Review</a>
 - Number of Trades- <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Number%20of%20Trades.pdf ">Click here to Review</a>
 - Highest and Lowest Volume By Month - <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Number%20of%20Trades.pdf ">Click here to Review</a>
-- Dashboard Interaction <a href="https://github.com/VinuthaST-vincy/Data-Analysis-Dashboard/blob/main/Reliance%20Stock%20Dataset%20Dashboard.pbix ">View Dashboard</a>
+- Dashboard Interaction <a href="https://app.powerbi.com/links/OKh8nchsNQ?ctid=5809fc8c-ed9c-4aa4-882a-a8a548f25c9d&pbi_source=linkShare ">View Dashboard</a>
 
 
 ### Process
